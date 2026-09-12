@@ -4,7 +4,7 @@ The discovery input for running the `gtm-builder` skill on Arab Tech Export. ara
 
 Arab Tech Export teaches Arab technology builders and companies to sell AI products and services into markets with higher demand and higher economic value, starting with the United States and Canada. It serves two buyers with the same subject, education: individual builders through a community, courses, one-on-ones, and AMA sessions, and enterprise companies through sales team training and market entry strategy.
 
-Four files. No placeholders for an agent to fill, and nothing here waits on a build step.
+Four input files plus the run output. No placeholders for an agent to fill.
 
 | File | What it is |
 |---|---|
@@ -12,16 +12,39 @@ Four files. No placeholders for an agent to fill, and nothing here waits on a bu
 | `SKILL-ADAPTATION.md` | How the nine phases change. The skill is written for B2B SaaS, this is services and education, and six phases need a substitution |
 | `RESEARCH-PROMPTS.md` | The three external research steps, pre-filled and ready to paste, plus a Step 0 the skill assumes you already did |
 | `.claude/skills/gtm-builder/SKILL.md` | The skill itself, checked in so a session opened on this repo can run it |
+| `deliverables/` | **The run output.** 25 files. Both tracks, all nine phases each, plus lead magnets and decks |
 
-## How to run it
+## Status: the skill has been run
 
-1. Push this repo, then open a Claude Code session on it.
-2. Fill the four business context lines in `GTM-BRIEF.md` Section 4, and answer as many of the five open decisions as you can. Pricing and language matter most.
-3. Run Step 0 in `RESEARCH-PROMPTS.md` to name your competitors. The skill assumes you already know them and this business has not named any.
-4. Run Steps 1.1, 2.1, and 2.7 from the same file, then bring the findings back.
-5. Invoke the skill. Point it at `GTM-BRIEF.md` and `SKILL-ADAPTATION.md` first.
+Both runs are complete and checked in under `deliverables/`. Start at
+[`deliverables/README.md`](deliverables/README.md).
 
-Two runs, not one. Track B, individual builders, then Track A, enterprise. The skill builds one GTM per run and these are two different buyers with two different offers, two competitor slates, and two pricing models. `GTM-BRIEF.md` carries both and recommends Track B first.
+The three external research steps were executed in-session by web search rather than
+handed back for you to do. Findings, sources and confidence marks are in
+[`deliverables/00-RESEARCH-FINDINGS.md`](deliverables/00-RESEARCH-FINDINGS.md).
+Two research questions came back thin and are recorded as thin rather than filled.
+
+`GTM-BRIEF.md` Section 4 and the five open decisions were still unanswered when the
+run happened, so the run proceeded on stated assumptions rather than stopping. Every
+one is written down in
+[`deliverables/00-ASSUMPTIONS.md`](deliverables/00-ASSUMPTIONS.md) with the files
+that change if it turns out wrong.
+
+| Output | Where |
+|---|---|
+| Research findings, all four steps | `deliverables/00-RESEARCH-FINDINGS.md` |
+| Assumptions and open items | `deliverables/00-ASSUMPTIONS.md` |
+| Run 1, Track B, individual builders | `deliverables/track-b/`, 11 files |
+| Run 2, Track A, enterprise | `deliverables/track-a/`, 11 files |
+
+## To re-run or revise
+
+1. Answer any of the six open items ranked at the bottom of
+   `deliverables/README.md`. The first one, the founder's stateable background,
+   fills 18 blocked fields per track.
+2. Open a Claude Code session on this repo and name the phase to rebuild. Each
+   deliverable ends with a Carried forward table saying what reads from it, so the
+   blast radius of a change is visible before you make it.
 
 ## The one rule that governs the whole run
 
