@@ -11,6 +11,7 @@ Four input files plus the run output. No placeholders for an agent to fill.
 | `GTM-BRIEF.md` | The skill's REQUIRED INPUTS, answered. Project information, competitor slate, service list, business context, and the claim constraints every phase has to respect |
 | `SKILL-ADAPTATION.md` | How the nine phases change. The skill is written for B2B SaaS, this is services and education, and six phases need a substitution |
 | `RESEARCH-PROMPTS.md` | The three external research steps, pre-filled and ready to paste, plus a Step 0 the skill assumes you already did |
+| `SUPPLEMENTARY-RESEARCH-PROMPT.md` | Round two. One prompt covering the ten gaps the first pass left, for a deep research tool |
 | `.claude/skills/gtm-builder/SKILL.md` | The skill itself, checked in so a session opened on this repo can run it |
 | `deliverables/` | **The run output.** Both tracks, all nine phases each, plus lead magnets and decks. Markdown source plus generated XLSX and DOCX under `deliverables/exports/` |
 | `tools/export.py` | Regenerates the exports from the Markdown. Run it after any edit |

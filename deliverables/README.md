@@ -88,9 +88,17 @@ Checked mechanically across all 22 files.
 | No testimonial, client count, income figure, or guarantee | None. Phase 6 leaves 18 fields blank in each track rather than filling them |
 | No superlative the research does not support | The "only provider" claim is explicitly refused in `00-RESEARCH-FINDINGS.md` |
 
+## Closing the gaps
+
+`../SUPPLEMENTARY-RESEARCH-PROMPT.md` is a single prompt for a deep research tool
+covering the ten gaps this run left open. Block 1 is the one that matters most: the
+actual content of what a North American buyer checks. This run established that no
+competitor packages that knowledge, and did not establish what the knowledge is.
+
 ## The six things to answer next
 
-Ranked by how much output changes. Full detail in `00-ASSUMPTIONS.md`.
+Ranked by how much output changes. Full detail in `00-ASSUMPTIONS.md`. Items 1 and 5
+are founder facts and no research tool can supply them.
 
 1. **Founder's stateable background.** Fills 18 blocked fields per track and unblocks
    funnel stage 3 in both. Highest value unblock in the run
