@@ -4,9 +4,14 @@ Eight conflicts, ranked by how much output changes. Each carries what the resear
 says, what the run currently says, why they cannot both stand, options, and a
 recommendation.
 
-**None of these has been resolved unilaterally.** The dashboards still say what they
-said. Where a conflict touches a file, the file now carries a pointer to the
-conflict number rather than a silent edit.
+> **ALL EIGHT ARE NOW RESOLVED.** Decisions and their consequences are recorded in
+> `00-RESOLUTIONS.md`, and the dashboards have been rebuilt accordingly. This
+> document is kept unchanged below because it is the reasoning that produced those
+> decisions, and rewriting it would erase the argument.
+
+**None of these was resolved unilaterally at the time of writing.** The dashboards
+then still said what they said. Where a conflict touched a file, the file carried a
+pointer to the conflict number rather than a silent edit.
 
 One exception, marked below as **already fixed**: an invented statistic in Phase 6
 copy. That was a defect against the brief's own rules, not a judgement call.

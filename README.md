@@ -36,7 +36,8 @@ that change if it turns out wrong.
 |---|---|
 | Research findings, all four steps | `deliverables/00-RESEARCH-FINDINGS.md` |
 | Buyer checks, Block 1 imported | `deliverables/00-BUYER-CHECKS.md` |
-| Conflicts awaiting your decision | `deliverables/00-CONFLICTS-TO-RESOLVE.md` |
+| Conflicts, with options and reasoning | `deliverables/00-CONFLICTS-TO-RESOLVE.md` |
+| Resolutions, the decision log | `deliverables/00-RESOLUTIONS.md` |
 | Assumptions and open items | `deliverables/00-ASSUMPTIONS.md` |
 | Run 1, Track B, individual builders | `deliverables/track-b/`, 11 files |
 | Run 2, Track A, enterprise | `deliverables/track-a/`, 11 files |

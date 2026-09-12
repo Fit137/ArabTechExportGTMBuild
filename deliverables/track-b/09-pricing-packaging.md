@@ -58,6 +58,23 @@ Decoy, Hero, Anchor. Prices `{TBD}`.
 | **Direct** | `{TBD}` | Everything in Deal, plus one to one sessions | `{TBD}`, plus one to one, **slot count published and capped** | Anchor | 10 to 15 percent |
 | **Founding cohort** | `{TBD}` | Deal tier access plus direct founder contact, permanent terms | Uncapped during the founding period | Separate. 8 to 12 people, closes | One time |
 
+**The tiers now map to the bands.** Per `00-RESOLUTIONS.md` conflict 2, the offer is
+the movement between bands, so the tiers should describe how far up a member is being
+carried rather than how much content they receive.
+
+| Plan | Carries a member | Note |
+|---|---|---|
+| Checklist, free | Nowhere. Shows the ladder | The scorecard returns a band. That is the hook |
+| Room | Band 1 to band 2 | The free-to-fix half. Legibility, scope, champion enablement, the tax form |
+| Deal | Band 2 to band 3 | Where the expensive half starts, and where a live deal is required |
+| Direct | Band 3 and the edge of 4 | Founder hours on a specific procurement process |
+
+This also fixes a weakness in the old tier logic. Room was justified only as a decoy.
+It now has an honest job: it carries a member through the rungs that cost nothing but
+knowledge, which is genuinely most of band 1 to 2. A member who never needs more than
+that has still been served, which is a better retention story than a tier designed to
+look wrong.
+
 **Room is a genuine decoy.** It contains the commodity half of the offer, courses
 and a room, which Phase 1 scored as table stakes and which free alternatives already
 cover. Its job is to make Deal look correct. A member who buys Room and never brings

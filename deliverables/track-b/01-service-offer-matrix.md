@@ -135,11 +135,11 @@ one that does not.
 
 | Attribute | Description |
 |---|---|
-| What it is | A short self assessment that scores a builder on the six things a North American buyer checks before awarding work, and returns a per dimension breakdown rather than a single verdict |
+| What it is | A short self assessment scoring a builder on six evidenced dimensions from `00-BUYER-CHECKS.md`, returning a per dimension breakdown and a band position rather than a single verdict |
 | Immediate value | The builder sees the buyer's checklist. Most have never seen one, because the checks happen after the conversation ends and nobody tells you which one you failed |
 | How it helps in problem identification | It separates the two reasons a deal is lost. Capability, which this audience mostly has, and legibility to the buyer, which is the thing nobody taught them. Scoring those apart is the insight |
-| How it exposes the need for Arab Tech Export | A low score on legibility is not solvable by getting better at building, which is what this audience does when a deal is lost. It is solvable by learning what the buyer checks and how to show it. That is the offer |
-| ICP fit | Direct. ICP Level 1 in Phase 4, can build, no target market revenue yet |
+| How it exposes the need for Arab Tech Export | A low score is not solvable by getting better at building, which is what this audience does when a deal is lost. Part of it is solvable by presenting differently and part of it has to be built. Knowing which is which is the offer, per `00-RESOLUTIONS.md` conflict 3 |
+| ICP fit | Direct. ICP Level 1 in Phase 4, can build, no target market revenue yet. The band result is what routes Level 1 and Level 2 differently |
 | Conversion pull | The score is a stated problem in the builder's own words, captured before any pitch. Every later asset answers the dimension they scored lowest on |
 | Top of funnel use case | Primary. Entry to the email sequence and the qualification route into the community |
 
@@ -175,6 +175,7 @@ line cannot be held in the interface, do not build it.
 | Output | Goes to |
 |---|---|
 | Quadrant 1, buyer evaluation walkthroughs and live deal teardowns | Phase 2 positioning vectors. Phase 6 pillar 1. Phase 10 slide 2 |
+| The walkthroughs now have evidenced content | `00-BUYER-CHECKS.md` supplies what was previously an empty differentiator |
 | One to one delivery ceiling | Phase 9 anchor tier and slot caps |
 | Courses are commodity, free supply sets the ceiling at zero | Phase 3 positioning against free content. Phase 9 floor |
 | Buyer Readiness Scorecard | Phase 8 top of funnel, all three channels. The lead magnet spec |

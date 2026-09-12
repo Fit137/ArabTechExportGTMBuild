@@ -15,6 +15,11 @@ Arabic. Write them in Arabic, do not translate these. A translated headline carr
 English sentence rhythm and reads as imported, which is the opposite of what this
 audience should feel here.
 
+**Rebuilt after conflict resolution.** Pillars restated on the split promise,
+conflict 3, and the ladder, conflict 2. Reasons to believe now carry evidenced
+content from `00-BUYER-CHECKS.md` rather than asserted differentiation. See
+`00-RESOLUTIONS.md`.
+
 **Constraints applied throughout:** no income, rate or revenue figure. No market
 size, salary comparison or adoption rate. No readiness comparison between markets.
 No guarantee. No em dash. See `GTM-BRIEF.md` Section 5.
@@ -25,12 +30,16 @@ No guarantee. No em dash. See `GTM-BRIEF.md` Section 5.
 
 | Element | Definition |
 |---|---|
-| Brand promise | You will know what a buyer in the United States or Canada checks before they award work, and you will have applied it to a deal of your own |
-| Positioning | Built around one route, Arab builders to North American buyers, and the work happens on the member's own live deal rather than on a curriculum |
+| Brand promise | You will know what a buyer in the United States or Canada verifies before they can award work, which parts of that you fix by presenting differently and which parts you have to build, and in what order. Applied to a deal of your own |
+| Positioning | Built around one route, Arab builders to North American buyers, and around the movement from work that needs no procurement to contracts that clear it |
 
-The promise is deliberately small and checkable. "You will know what they check"
-either happened or it did not, and the member can tell within a week. A promise
-about outcomes would be both unprovable and banned.
+The promise is deliberately small and checkable. "You will know what they verify and
+which parts cost money" either happened or it did not, and the member can tell within
+a week. A promise about outcomes would be both unprovable and banned.
+
+**One line that must survive every rewrite.** Clearing a buyer's checks makes a
+vendor eligible. It does not win the deal. Phase 3 names this as the claim most
+likely to be crossed later, and it is crossed by omission rather than by assertion.
 
 ---
 
@@ -42,9 +51,15 @@ each is blocking for a different reason.
 
 | Value prop | Description | Reason to believe 1 | Reason to believe 2 | Reason to believe 3 |
 |---|---|---|---|---|
-| **VP1. See the buyer's side** *(answers the user)* | The gap is not capability, it is that a capable builder is illegible to a buyer who has never met them. This shows what that buyer checks | RTB 1.1 Buyer evaluation walkthroughs, published and accumulating | RTB 1.2 The six dimension buyer readiness assessment, free and instant | RTB 1.3 Real anonymised proposals marked up against the buyer's checklist |
-| **VP2. Applied to your own deal** *(answers the manager)* | Nothing here is finished by watching. Every mechanism requires the member to bring their own live work | RTB 2.1 Live deal pricing and proposal teardowns on the member's own deal | RTB 2.2 Positioning review, how the member presents to a target market buyer | RTB 2.3 A peer deal review rubric that makes review a repeatable act, not a favour |
+| **VP1. See what they verify** *(answers the user)* | The checks are run after the call ends, by procurement, legal, security and finance, none of whom were in the room. This shows what each of them looks for | RTB 1.1 Buyer evaluation walkthroughs built on the published sequence, tax forms, security evidence, contracting and payment | RTB 1.2 The six dimension readiness assessment, free and instant, returning a band position | RTB 1.3 Real anonymised proposals marked up against what gets forwarded to four departments |
+| **VP2. Know which part costs money** *(answers the manager)* | Some of the gap is how you present and some of it you have to build. Told apart, in order, applied to your own live work | RTB 2.1 Live deal teardowns on the member's own deal, scoped to the band that deal sits in | RTB 2.2 Positioning review, the half that is free to fix | RTB 2.3 The build list, the half that is not, sequenced by what each item opens up next |
 | **VP3. A room going the same direction** *(answers the decision maker)* | The cost is real money at a local income. What it buys that free content cannot is other people running the same motion at the same time | RTB 3.1 A founding cohort of 8 to 12, recruited individually rather than opened to a waitlist | RTB 3.2 Direct founder access, capped by design and priced accordingly | RTB 3.3 Stated cancellation and refund terms, published before purchase |
+
+**VP2 is the pillar that changed most.** It used to say only that the work happens on
+your own deal. It now says the thing nobody else in the competitor set will say: part
+of what you are missing has a price tag, and here is which part. That is a harder
+sell and a more honest one, and per `00-RESOLUTIONS.md` conflict 3 it is what stops a
+refund conversation three months in.
 
 RTB 3.3 is unusual as a reason to believe and it is there on purpose. Phase 5 found
 that the decision maker's objection is price against a good free alternative, in a
@@ -61,12 +76,12 @@ Nine tables. Body copy is capped at 25 words per the skill.
 
 | Element | Content |
 |---|---|
-| Reason to believe | Buyer evaluation walkthroughs, published and accumulating |
-| Headline (Rational) | What a North American buyer checks before they award the work |
+| Reason to believe | Buyer evaluation walkthroughs built on the published sequence |
+| Headline (Rational) | Four departments check you. None of them were on the call |
 | Headline (Emotional) | You never found out why they went quiet |
-| Headline (Social Proof) | `{TBD}`. **Method substitute:** Every walkthrough follows the same six checks, in the same order, every time |
+| Headline (Social Proof) | `{TBD}`. **Method substitute:** Built on the buyer's own published sequence, procurement, legal, security and finance, in the order they run it |
 | Subhead | The evaluation happens after the call ends, and nobody tells you which part you failed |
-| Body copy | A buyer in the United States or Canada runs the same checks on every vendor. Most Arab builders have never seen that list. Here it is. |
+| Body copy | Procurement, legal, security and finance each check something different. Go-live waits for all four. Most Arab builders have never seen that list. |
 | CTA | See the checklist |
 | Supporting proof point | `{TBD}`. Blocked, see `00-ASSUMPTIONS.md` decision 5 |
 
@@ -74,12 +89,12 @@ Nine tables. Body copy is capped at 25 words per the skill.
 
 | Element | Content |
 |---|---|
-| Reason to believe | Six dimension buyer readiness assessment, free and instant |
-| Headline (Rational) | Score yourself on the six things that decide it |
+| Reason to believe | Six dimension readiness assessment, free and instant, returning a band |
+| Headline (Rational) | Find out what size of deal your setup can survive |
 | Headline (Emotional) | Find out which part they could not see |
-| Headline (Social Proof) | `{TBD}`. **Method substitute:** Six dimensions, scored separately, because a single number would tell you nothing you can act on |
-| Subhead | Two minutes, no call, a score per dimension rather than a verdict |
-| Body copy | This measures access, not ability. It shows which parts of reaching a North American buyer you have never had to handle. |
+| Headline (Social Proof) | `{TBD}`. **Method substitute:** Six dimensions scored separately, plus the band your current setup clears. A single number would tell you nothing you can act on |
+| Subhead | No call, a score per dimension, and the band you are actually at |
+| Body copy | This measures access, not ability. It shows which parts of reaching a North American buyer you have never had to handle, and which cost money to fix. |
 | CTA | Take the assessment |
 | Supporting proof point | `{TBD}` |
 
@@ -87,10 +102,10 @@ Nine tables. Body copy is capped at 25 words per the skill.
 
 | Element | Content |
 |---|---|
-| Reason to believe | Real anonymised proposals marked up against the buyer's checklist |
-| Headline (Rational) | The same proposal, read the way the buyer reads it |
+| Reason to believe | Real anonymised proposals marked up against what gets forwarded |
+| Headline (Rational) | The same proposal, read by the three people it gets forwarded to |
 | Headline (Emotional) | Good work, described in a way that loses |
-| Headline (Social Proof) | `{TBD}`. **Method substitute:** Marked up line by line against the same checklist, with nothing removed to make the point easier |
+| Headline (Social Proof) | `{TBD}`. **Method substitute:** Marked up line by line against the buyer's published sequence, with nothing removed to make the point easier |
 | Subhead | Not a template. A real document, with the parts that cost it the deal marked |
 | Body copy | Your proposal gets forwarded to procurement, legal and security. None of them were on the call. Here is what they see. |
 | CTA | Read the teardown |
@@ -100,11 +115,11 @@ Nine tables. Body copy is capped at 25 words per the skill.
 
 | Element | Content |
 |---|---|
-| Reason to believe | Pricing and proposal teardowns on the member's own live deal |
+| Reason to believe | Live deal teardowns, scoped to the band that deal sits in |
 | Headline (Rational) | Bring a live deal. We take it apart before you send it |
 | Headline (Emotional) | Stop finding out after you have already sent it |
 | Headline (Social Proof) | `{TBD}`. **Method substitute:** You bring a real deal or you do not attend. There is no version of this for people watching |
-| Subhead | Your actual scope, your actual price, your actual buyer, reviewed in the room |
+| Subhead | Your actual scope, your actual buyer, and the process that deal will have to clear |
 | Body copy | Every teardown uses a member's live deal. Not a case study, not a hypothetical. You bring the document you were about to send. |
 | CTA | Bring a deal |
 | Supporting proof point | `{TBD}` |
@@ -113,7 +128,7 @@ Nine tables. Body copy is capped at 25 words per the skill.
 
 | Element | Content |
 |---|---|
-| Reason to believe | Positioning review, how the member presents to a target market buyer |
+| Reason to believe | Positioning review, the half of the gap that is free to fix |
 | Headline (Rational) | How you describe yourself decides which deals you are shown |
 | Headline (Emotional) | You are being filtered out before anyone reads the detail |
 | Headline (Social Proof) | `{TBD}`. **Method substitute:** Reviewed against how the buyer's own category language works, not against a style preference |
@@ -122,18 +137,18 @@ Nine tables. Body copy is capped at 25 words per the skill.
 | CTA | Get yours reviewed |
 | Supporting proof point | `{TBD}` |
 
-### Drill 6. VP2, RTB 2.3. Peer deal review rubric
+### Drill 6. VP2, RTB 2.3. The build list
 
 | Element | Content |
 |---|---|
-| Reason to believe | A peer deal review rubric that makes review repeatable |
-| Headline (Rational) | A rubric, so review does not depend on who is awake |
-| Headline (Emotional) | Feedback that is about your deal, not about their opinion |
-| Headline (Social Proof) | `{TBD}`. **Method substitute:** The same rubric every time, applied by members to each other, so the quality does not move with the mood of the room |
-| Subhead | Structured peer review against fixed criteria, not a comment thread |
-| Body copy | Members review each other against a fixed rubric. Same questions, same order. That is what makes peer feedback worth reading. |
-| CTA | See the rubric |
-| Supporting proof point | `{TBD}` |
+| Reason to believe | The build list, the half of the gap that is not free, sequenced |
+| Headline (Rational) | Four things you have to build, in the order that matters |
+| Headline (Emotional) | Nobody told you the tax form was the reason |
+| Headline (Social Proof) | `{TBD}`. **Method substitute:** Sequenced by what each item makes possible, not by what is easiest. The order is the work |
+| Subhead | Some of the gap is presentation. This is the part that is not |
+| Body copy | A missing W-8BEN withholds 30 percent of your invoice. Nobody mentions it until it happens. That is one of four, and they have an order. |
+| CTA | See the build list |
+| Supporting proof point | IRS instructions for Form W-8BEN-E. **The only sourced proof point in these nine, and it is not about us** |
 
 ### Drill 7. VP3, RTB 3.1. Founding cohort
 
@@ -176,14 +191,23 @@ Nine tables. Body copy is capped at 25 words per the skill.
 
 ---
 
-## The eighteen blocked fields
+## The blocked fields, now seventeen
 
 | Field | Count | Status |
 |---|---|---|
 | Headline (Social Proof) | 9 | `{TBD}`, method substitute supplied for each |
-| Supporting Proof Point | 9 | `{TBD}`, no substitute. This one needs a real fact |
+| Supporting Proof Point | 8 | `{TBD}`, no substitute. This one needs a real fact |
+| Supporting Proof Point, drill 6 | 1 | **Filled.** IRS instructions for Form W-8BEN-E |
 
-**How to unblock.** One paragraph from the founder answering
+**One field came unblocked and it is worth noticing why.** Drill 6 cites the IRS on
+the 30 percent withholding consequence. It is a real, primary-sourced, checkable
+fact, and it is not a claim about Arab Tech Export at all. A pre-launch business with
+no results of its own can still stand on somebody else's verifiable evidence.
+
+That is a route the other eight can take. A proof point does not have to be a
+customer. It can be the thing you are teaching, sourced.
+
+**How to unblock the rest.** One paragraph from the founder answering
 `00-ASSUMPTIONS.md` decision 5 fills most of the nine Supporting Proof Point
 fields immediately. Anything stateable and true works: what they have built, who
 they have sold to, where they have worked, how long they have done this. It does
@@ -200,11 +224,33 @@ likely place in this entire run for a fabricated testimonial to enter.
 
 ---
 
+## Stating the absence, conflict 5
+
+Resolved as option C in `00-RESOLUTIONS.md`. Both halves apply here.
+
+The Block 1 research says buyers discount logo walls and generic testimonials, and
+want attributable case studies with named customers and specific use cases. Arab Tech
+Export has none and will have none for months.
+
+**Half one, say so.** Every asset that would normally carry social proof instead
+carries a plain statement that there are no results yet, and what stands in its place:
+the method, the published sequence, the sourced facts, and the terms. An audience
+already sceptical of this category reads an unexplained absence as concealment and a
+stated one as unusual honesty.
+
+**Half two, manufacture the proof properly.** Phase 5 Step 5.2 makes permission to be
+referenced a condition of joining the founding cohort rather than a favour asked
+afterwards. The research is specific about what counts: named, attributable, with job
+title, company size and a concrete use case. Design the cohort to produce exactly
+that, or the nine social proof fields stay empty for another six months.
+
 ## Carried forward
 
 | Output | Goes to |
 |---|---|
 | Three pillars | Phase 8 message per channel. Phase 10 slide 5 |
+| Drill 6, the build list and the sourced proof point | Curriculum sequencing. The model for unblocking the other eight |
+| Stated absence | Phase 8 bottom of funnel, scorecard bands |
 | Drill 2 | The lead magnet and every top of funnel asset |
 | Drill 9, published terms | Phase 8 bottom of funnel. Phase 9 packaging |
 | Eighteen blocked fields | Blocked until decision 5 and the founding cohort |

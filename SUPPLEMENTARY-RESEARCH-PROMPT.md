@@ -394,6 +394,48 @@ also a legal requirement, because that changes it from a preference to a constra
 
 ---
 
+# BLOCK 11. Insurance obtainability in the origin markets. Added after Block 1
+
+Block 1 established that North American buyers commonly require general liability at
+USD 1,000,000 per occurrence or above, plus professional liability or errors and
+omissions, and cyber liability, with a certificate of insurance requested during
+onboarding. It also found that documented insurance at expected limits is one of the
+four things most commonly missing from a foreign vendor's setup.
+
+What it did not establish is whether a vendor in the origin markets can obtain those
+policies at all. That question decides whether this is teachable curriculum or a dead
+end, so it is worth a block of its own.
+
+For each of Egypt, Jordan, Morocco, Saudi Arabia and the United Arab Emirates, and for
+two vendor shapes, a solo individual and a company of five to fifty people:
+
+- Which insurers write professional liability or errors and omissions, cyber
+  liability, and commercial general liability for technology and software services
+  providers. Name them with URLs.
+- Typical coverage limits available, and whether USD 1,000,000 per occurrence is
+  routinely achievable.
+- Indicative premium ranges, if published.
+- **Whether the policy would be accepted by a North American buyer.** This is the
+  crux. Does the certificate need to be issued by an insurer licensed or admitted in
+  the United States or Canada, does it need to name the buyer as an additional
+  insured, does it need to be denominated in USD, and will a policy written locally in
+  one of these five markets satisfy a standard vendor onboarding requirement.
+- Whether international brokers write cross-border policies for vendors in these
+  markets, and whether a vendor without a North American entity can be covered.
+- Whether any of the government export or ICT programmes already identified in Block 8
+  subsidise or arrange such coverage. Export credit agencies in particular.
+- Whether contracting through a platform, an employer of record, or an agency of
+  record transfers the insurance requirement away from the individual vendor, and at
+  what cost.
+
+**Report a clear answer to one question above all:** can a competent solo builder in
+each of these five markets realistically satisfy a North American buyer's insurance
+requirement, and if so by what route. If the answer is no in some markets, say which,
+because that changes what deals those members can win and belongs in the customer
+profile rather than in the curriculum.
+
+---
+
 # Output format
 
 Return the blocks in order, each as its own section, using this shape per finding:
