@@ -25,6 +25,14 @@ and it is the same distinction `GTM-BRIEF.md` Section 5 protects.
 
 ### The six dimensions
 
+> **Unresolved, see `00-CONFLICTS-TO-RESOLVE.md` conflict 1.** These six were
+> reasoned, not evidenced. The Block 1 research supplies the buyer's actual
+> verification sequence and it does not match. Four of the six survive. Pricing
+> frame does not appear anywhere in the buyer's checks. Security evidence, tax
+> documentation and insurance are all missing here and are three of the four most
+> common foreign-vendor gaps. Left as written pending your decision, because
+> changing them changes the whole top of funnel.
+
 Each is a thing a North American buyer verifies. None is a skill.
 
 | # | Dimension | What the buyer is checking |

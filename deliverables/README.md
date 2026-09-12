@@ -11,8 +11,10 @@ Executed 2026-09-12.
 |---|---|---|
 | 1 | `00-RESEARCH-FINDINGS.md` | The three external research steps plus Step 0, executed rather than handed back. Named entities, working URLs, confidence marks, and what came back thin |
 | 2 | `00-ASSUMPTIONS.md` | Section 4 and the five open decisions, answered as stated assumptions. Every dependent file is named |
-| 3 | `track-b/` | Run 1, individual builders. Nine dashboards, lead magnet, deck |
-| 4 | `track-a/` | Run 2, enterprise. Same structure |
+| 3 | `00-BUYER-CHECKS.md` | **Block 1 research, imported.** What a North American buyer actually verifies before contracting a foreign vendor. The product's content spine, which the first run did not have |
+| 4 | `00-CONFLICTS-TO-RESOLVE.md` | **Eight conflicts between that research and this GTM, unresolved and awaiting your decision.** Read before building anything |
+| 5 | `track-b/` | Run 1, individual builders. Nine dashboards, lead magnet, deck |
+| 6 | `track-a/` | Run 2, enterprise. Same structure |
 
 ## Track B, individual builders
 

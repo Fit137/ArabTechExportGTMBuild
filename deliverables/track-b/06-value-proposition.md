@@ -92,7 +92,7 @@ Nine tables. Body copy is capped at 25 words per the skill.
 | Headline (Emotional) | Good work, described in a way that loses |
 | Headline (Social Proof) | `{TBD}`. **Method substitute:** Marked up line by line against the same checklist, with nothing removed to make the point easier |
 | Subhead | Not a template. A real document, with the parts that cost it the deal marked |
-| Body copy | Your proposal is read in about two minutes by someone comparing you to three others. Here is what that reader sees. |
+| Body copy | Your proposal gets forwarded to procurement, legal and security. None of them were on the call. Here is what they see. |
 | CTA | Read the teardown |
 | Supporting proof point | `{TBD}` |
 

@@ -62,6 +62,27 @@ directs.
    here is not competing against silence, it is competing for attention against
    genuinely useful free material.
 
+### Added from Block 1 research, why buyers actually go quiet
+
+The original version of stage 1 treated the unexplained loss as something the member
+never gets a reason for. `00-BUYER-CHECKS.md` supplies the mechanism and it is a
+better story than the one this funnel was built on.
+
+**The champion could not sell the vendor internally.** A North American buyer runs
+four parallel lanes, procurement, legal and privacy, IT and security, and finance,
+and go-live is gated on all four clearing. Deals stall when the buyer-side advocate
+has nothing to hand each lane. The good first call was real. What followed was an
+advocate carrying no documents into three departments that never met the vendor.
+
+Separately, a 90 to 180 day enterprise cycle with no contact looks identical to
+rejection from outside. Some of what members read as ghosting is a normal cycle.
+
+**What this changes in this funnel.** Stage 1's trigger stays the same, an
+unexplained loss. What the member is taught to do about it changes from presenting
+better to arming the champion. That is a different asset set and a more teachable
+one, and it should be reflected here once `00-CONFLICTS-TO-RESOLVE.md` conflict 2
+settles who this track is for.
+
 ### Acceleration opportunities
 
 1. **Compress stage 2 to stage 5 for the founding cohort.** Eight to twelve people
