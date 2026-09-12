@@ -49,12 +49,32 @@ Executed 2026-09-12.
 The decks are the skill's Gamma AI output. Paste either file into Gamma or any slide
 generator. Markdown, ten slides, `---` separators, no tables, no em dashes.
 
-## Format note
+## Exports
 
-The skill's output map calls for XLSX and DOCX. These are Markdown, because the
-deliverables live in a git repository where a diff is the point and a binary file is
-not reviewable. Every table is a Markdown table and pastes into Sheets, Docs or Gamma
-directly. Export to XLSX or DOCX once the content is settled, not before.
+`exports/` holds the XLSX and DOCX files the skill's OUTPUT FORMAT MAPPING calls
+for, generated from the Markdown by `../tools/export.py`.
+
+| Skill mapping | Files |
+|---|---|
+| 8 XLSX | Phases 1, 2, 4, 5, 7, 8, 9 and the lead magnet, per track |
+| 4 DOCX | Phase 3, Phase 6, the Phase 2 positioning summary, and the lead magnet, per track |
+| 1 MD | The 10-slide deck, per track. Markdown is the skill's specified format for Gamma AI |
+| Extra | `00-research-findings.xlsx`, the competitor slate in a sheet. Not in the skill's map, added because Phase 2 reads from it |
+
+Every workbook opens with an `About` sheet carrying the prose, then one sheet per
+table named from its step. The Phase 1 workbooks carry a live scatter chart plotting
+demand against competitiveness, which is what the skill's Step 1.3 asks for.
+`{TBD}` cells are highlighted so the gaps are visible at a glance.
+
+**The Markdown is the source of truth.** Edit `track-b/` or `track-a/` and re-run:
+
+```
+python3 tools/export.py
+```
+
+`exports/` is rebuilt from scratch each time, so anything edited directly in a
+spreadsheet or document is lost. The skill's metadata says 7 XLSX where its own
+mapping table implies 8. The mapping table is followed here.
 
 ## Constraints held throughout
 
