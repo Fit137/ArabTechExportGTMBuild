@@ -11,8 +11,11 @@ Executed 2026-09-12.
 |---|---|---|
 | 1 | `00-RESEARCH-FINDINGS.md` | The three external research steps plus Step 0, executed rather than handed back. Named entities, working URLs, confidence marks, and what came back thin |
 | 2 | `00-ASSUMPTIONS.md` | Section 4 and the five open decisions, answered as stated assumptions. Every dependent file is named |
-| 3 | `track-b/` | Run 1, individual builders. Nine dashboards, lead magnet, deck |
-| 4 | `track-a/` | Run 2, enterprise. Same structure |
+| 3 | `00-BUYER-CHECKS.md` | **Block 1 research, imported.** What a North American buyer actually verifies before contracting a foreign vendor. The product's content spine, which the first run did not have |
+| 4 | `00-CONFLICTS-TO-RESOLVE.md` | Eight conflicts between that research and this GTM, with options and reasoning. All now resolved, kept as the argument behind the decisions |
+| 5 | `00-RESOLUTIONS.md` | **The decision log.** What each conflict was resolved as and which files changed. Read this to understand why Track B looks different from the first run |
+| 6 | `track-b/` | Run 1, individual builders. Nine dashboards, lead magnet, deck |
+| 7 | `track-a/` | Run 2, enterprise. Same structure |
 
 ## Track B, individual builders
 
@@ -88,9 +91,33 @@ Checked mechanically across all 22 files.
 | No testimonial, client count, income figure, or guarantee | None. Phase 6 leaves 18 fields blank in each track rather than filling them |
 | No superlative the research does not support | The "only provider" claim is explicitly refused in `00-RESEARCH-FINDINGS.md` |
 
+## The ladder
+
+Track B is now positioned as the route from work that needs no procurement to
+contracts that clear it. Four bands, taken from the Block 1 research and used
+consistently across every Track B deliverable.
+
+| Band | Deal size | What the buyer does |
+|---|---|---|
+| 1 | Under about $15,000 | No formal process. One person decides |
+| 2 | About $15,000 to $25,000 | Procurement appears. Some review |
+| 3 | About $25,000 to $100,000 | Procurement, legal and a security questionnaire |
+| 4 | Above about $100,000 | Full enterprise. 90 to 180 plus days |
+
+A member is at the band their **setup** can survive, which is not the band they are
+bidding at. That distinction is what the whole curriculum turns on.
+
+## Closing the gaps
+
+`../SUPPLEMENTARY-RESEARCH-PROMPT.md` is a single prompt for a deep research tool
+covering the ten gaps this run left open. Block 1 is the one that matters most: the
+actual content of what a North American buyer checks. This run established that no
+competitor packages that knowledge, and did not establish what the knowledge is.
+
 ## The six things to answer next
 
-Ranked by how much output changes. Full detail in `00-ASSUMPTIONS.md`.
+Ranked by how much output changes. Full detail in `00-ASSUMPTIONS.md`. Items 1 and 5
+are founder facts and no research tool can supply them.
 
 1. **Founder's stateable background.** Fills 18 blocked fields per track and unblocks
    funnel stage 3 in both. Highest value unblock in the run

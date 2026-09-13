@@ -83,7 +83,19 @@ launch is an onboarding process with no selection in it.
 **What to offer them.** Access at a price that is honest about what does not exist
 yet, and permanent terms as the group that took the risk. Not a discount framed as a
 favour, an exchange: a lower price and direct founder access, for feedback, for
-being visible in the room, and for permission to reference their experience later.
+being visible in the room, and for permission to reference their experience.
+
+**Permission is agreed at joining, in writing, not requested at the end.** Resolved
+as conflict 5 in `00-RESOLUTIONS.md`. Asking afterwards produces a polite decline
+from a member who is otherwise happy, and Phase 6 stays blocked for another six
+months. The Block 1 research is specific about what a North American buyer counts as
+proof: named, attributable, with job title, company size and a concrete use case.
+Generic praise is discounted. So the cohort agreement should name what will be
+published and in what form, and members should know that before they join rather than
+be asked to improvise it later.
+
+This makes the founding cohort the business's proof-generation mechanism rather than
+just its first customers. It is currently the only one available.
 
 **The founder credential problem is at its sharpest here.** These 8 to 12 people are
 being asked to commit before there is anything to evaluate. `00-ASSUMPTIONS.md`

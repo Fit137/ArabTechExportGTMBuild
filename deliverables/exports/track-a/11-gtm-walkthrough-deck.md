@@ -16,7 +16,8 @@
 - Differentiators, sales asset rebuild and pricing against target market comparables. Both score high on differentiation and low on demand, because the buyer does not believe these are the problem until a target market buyer ignores them
 - Table stakes, sales team training. Sandler runs more than 250 centres worldwide with an active Dubai franchise. This is the entry line, not the reason to choose
 - The economics finding, the first two or three engagements are loss-making in hours because buyer research does not transfer across sub-sectors
-- So what, take the second client from the first client's vertical, even at a lower fee
+- A seventh service item was added after the buyer-check research, vendor onboarding readiness. It is the first genuinely reusable asset in this track, because tax forms, security packs and contract artifacts are the same for every client
+- So what, take the second client from the first client's vertical, even at a lower fee, and build the onboarding readiness asset before the second engagement
 
 ---
 

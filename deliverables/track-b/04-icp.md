@@ -6,6 +6,11 @@ individual buyer, as the adaptation directs.
 
 Location reads from `00-ASSUMPTIONS.md` decision 2, five named launch markets.
 
+**Reframed after conflict 2.** The two levels now carry a band position from
+`00-RESOLUTIONS.md`. Buyer maturity was the right axis. The bands make it
+measurable, because they describe what the member's setup can survive rather than
+how experienced they feel.
+
 ---
 
 ## Step 4.1. Two level ICP
@@ -19,6 +24,8 @@ Location reads from `00-ASSUMPTIONS.md` decision 2, five named launch markets.
 | **Team size** *(field changed)* | Solo | Solo, or solo with one to three contractors used per project |
 | Business maturity | Can deliver competent work. Has never run a deliberate motion toward a target market buyer. Deals arrive through marketplaces, referral, or local network | Has closed target market work, usually through a marketplace, a referral, or luck. Cannot yet repeat it deliberately or raise price on it |
 | **Business model** *(the interesting field for this audience)* | Mostly hourly, or per project priced against local comparables. Occasionally a small product | Per project moving toward retainer. Actively trying to move off hourly. Some productised scope |
+| **Band position** | **Band 1, and usually unaware bands 2 to 4 exist.** Selling where one person decides and no formal process runs. A band 2 opportunity would stall in their paperwork | **Band 1 to 2, trying to reach band 3.** Has cleared a light process at least once, often without noticing, and cannot repeat it |
+| **What blocks the next band** | Nothing on file. No tax form, no contract template, no scope document that survives forwarding | Paperwork exists but is ad hoc. No security evidence at all. No insurance |
 | Best engagement model | Self serve entry through the scorecard, then a low friction cohort or membership tier. Cannot yet justify a high ticket | Membership with the applied services attached. The one to one anchor tier is realistic here, not at Level 1 |
 | Challenges and pain points | Cannot tell why a target market conversation goes quiet. No visibility of what the buyer checks. Prices against the wrong reference. No credibility artifacts a foreign buyer recognises. Payment and contracting friction. Isolated, nobody around them has done it | Cannot repeat what worked. Priced too low at the start and cannot raise it on existing clients. Scope creeps. Wins on capability and loses on presentation against competitors who are worse and more legible. Dependent on one or two clients |
 | Why they should choose us | Because the thing they are missing is not skill, and every other option on the table sells skill. This is the only offer in the verified set built around one origin, one destination, and their own live deal | Because the constraint has moved from access to consistency, and a room of people running the same motion plus review of their actual deals is what makes a motion repeatable |
@@ -29,7 +36,7 @@ Location reads from `00-ASSUMPTIONS.md` decision 2, five named launch markets.
 
 ## Which one to win first
 
-**Level 2, and this is a change of emphasis worth stating plainly.**
+**Level 2, and the band framing makes the reason sharper than it was.**
 
 The skill's instinct, and most GTM instinct, is to start at Level 1 because it is
 the larger and more visible group. Three findings in this run point the other way.
@@ -52,6 +59,22 @@ The paid room is built for Level 2 first.
 
 That split is deliberate: acquire broad, admit narrow, and let the scorecard do the
 sorting.
+
+### What the band framing fixes
+
+The previous version of this phase had a problem it did not name. Level 1 is the
+larger audience and the differentiated half of the offer was useless to them, because
+they had no live deal and no procurement to clear. That made Level 1 an audience to
+market to and not an audience to serve, which is a bad position to hold for long.
+
+The ladder resolves it. A band 1 member has somewhere to go and the first rungs are
+cheap: a W-8BEN on file, a scope that survives forwarding, an invoice that matches a
+vendor master record. None of that requires a large deal to be worth doing, and all
+of it is invisible in free content because free content is made by people who already
+cleared it.
+
+**Level 2 still comes first for the paid room.** The difference is that Level 1 now
+has a curriculum rather than a waiting list.
 
 ---
 
@@ -78,6 +101,7 @@ requirement and to Phase 7 stage 4 as a blocker.
 
 | Output | Goes to |
 |---|---|
+| Band position per level | Phase 9 tiers, scorecard bands, curriculum sequencing |
 | Level 2 first for the paid room, Level 1 for top of funnel | Phase 5, Phase 8, Phase 9 |
 | Triggers, both levels | Phase 7 stage 1. Phase 6 copy drills. Scorecard questions |
 | Income band `{TBD}` | Scorecard question, design partner interviews |

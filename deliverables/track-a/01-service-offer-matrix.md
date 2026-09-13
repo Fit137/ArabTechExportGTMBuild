@@ -133,6 +133,42 @@ conversations can run at once. Roughly four to six live at a time for one person
 
 ---
 
+## Added from Block 1 research, a seventh service item to rate
+
+`00-BUYER-CHECKS.md` validates Track A more strongly than anything else in the run.
+Track A's clients sell at deal sizes where every gate in that research is real:
+procurement, legal review and a security questionnaire become normal above roughly
+$25,000 annual contract value, and above $100,000 the cycle runs 90 to 180 plus days
+with a reported 35 to 40 percent of elapsed time inside legal and procurement.
+
+That surfaces a service item the original list did not have.
+
+| # | Service item | Demand | Competitiveness | Delivery effort | Funnel role |
+|---|---|---|---|---|---|
+| 7 | **Vendor onboarding readiness.** Getting the client through a North American buyer's procurement, security, legal and finance lanes | Wanted by most, once they have stalled once | Unique to us | High once, then partly reusable across clients in a vertical | **Differentiator, and the most concrete deliverable in the set** |
+
+Scored provisionally at demand 11.2, competitiveness 16.4, which places it in
+quadrant 1 alongside market entry strategy.
+
+**Why it belongs.** Phase 7 stage 1 already records that Track A's buyer describes
+the problem as deals stalling after the pitch. The research names exactly where they
+stall and what clears it: W-8BEN-E accuracy, a security evidence pack in place of
+SOC 2, insurance certificates, a DPA, and proof assets the client's champion can
+forward to four departments. That is a scopeable, checkable deliverable, which is
+rare in this offer set.
+
+**Why it also improves the economics.** Phase 1 found the first two or three
+engagements are loss-making in hours because buyer research does not transfer across
+sub-sectors. Vendor onboarding readiness is the exception. The tax forms, the
+security pack structure, the contract artifacts and the insurance requirements are
+substantially the same for every client. It is the first genuinely reusable asset in
+Track A, and it argues for building it before the second engagement rather than
+after the fifth.
+
+**Before pricing it, settle `00-CONFLICTS-TO-RESOLVE.md` conflict 6.** Whether a
+client in the five origin markets can obtain insurance a North American buyer accepts
+is unresearched, and it is part of this deliverable.
+
 ## Carried forward
 
 | Output | Goes to |

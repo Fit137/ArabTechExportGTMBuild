@@ -11,7 +11,7 @@ directs.
 | Stage | Buyer mindset and trigger | Key questions | Touch-points and assets | Internal KPI | State after stage | Function |
 |---|---|---|---|---|---|---|
 | **1. Problem awareness** | "I lost that one and I still do not know why. I was better than the person who won it." Trigger: an unexplained loss, or watching a weaker competitor win | Why did they go quiet. Was it price. Was it me. Is this just how it is | Arabic short form video on the buyer's checks. Long form walkthrough. Posts under existing free content | Reach. Saves and shares over views, which is the signal that it landed. Scroll depth on long form | Understands the loss was about legibility to the buyer, not capability | Marketing |
-| **2. Solution discovery** | "So there is a checklist and I have never seen it." Trigger: the first walkthrough that named something they recognise | What do they actually check. Where do I stand on that. Who teaches this | Buyer Readiness Scorecard. The buyer's checklist asset. Marked up proposal teardown | Scorecard starts. **Completion rate, the real number.** Email capture | Has a per dimension score and a named weakest dimension, in their own words | Marketing |
+| **2. Solution discovery** | "So there is a checklist and I have never seen it." Trigger: the first walkthrough that named something they recognise | What do they actually check. Where do I stand on that. Who teaches this | Buyer Readiness Scorecard. The buyer's checklist asset. Marked up proposal teardown | Scorecard starts. **Completion rate, the real number.** Email capture. **Band distribution**, which says whether the audience being reached is servable | Has a per dimension score, a named weakest dimension, and a band position | Marketing |
 | **3. Vendor evaluation** | "Is this person real, or is this another course." Trigger: finished the scorecard, received the result | Who is the founder. Has anyone real done this. Is this for someone at my stage. Is it in my language | Email sequence. Founder background page. Honest "who this is not for" page. Terms and cancellation page | Email open and reply rate. Time on the not-for page, which qualifies harder than any sales page | Has decided whether the founder is credible. This stage is currently blocked, see below | Sales |
 | **4. Purchase decision** | "Can I justify this, and can I actually pay it." Trigger: hit their weakest dimension again on a live deal | What exactly do I get. Can I leave. Will my card work. Is there a version at my income | Pricing page with published terms. Multiple payment routes. Annual and cohort options. Founding cohort invitation | Checkout start to completion. **Payment failure rate by market, tracked separately** | Paying member, or a recorded reason for not being one | Sales |
 | **5. Value realization** | "Am I going to be one of the people who joins and disappears." Trigger: the first 48 hours | What do I do first. Is anyone here. Will my deal get attention | Day zero onboarding to one required action. First teardown slot booked in week one. Introduction post prompt. Founder direct message | **Posted within 7 days. Live deal brought within 14 days. Day 14 retention.** These three are the whole business | Has acted, been seen, and had their own deal touched | Community |
@@ -61,6 +61,33 @@ directs.
    government funded. Hsoub publishes thousands of free articles. Awareness content
    here is not competing against silence, it is competing for attention against
    genuinely useful free material.
+
+### Added from Block 1 research, why buyers actually go quiet
+
+The original version of stage 1 treated the unexplained loss as something the member
+never gets a reason for. `00-BUYER-CHECKS.md` supplies the mechanism and it is a
+better story than the one this funnel was built on.
+
+**The champion could not sell the vendor internally.** A North American buyer runs
+four parallel lanes, procurement, legal and privacy, IT and security, and finance,
+and go-live is gated on all four clearing. Deals stall when the buyer-side advocate
+has nothing to hand each lane. The good first call was real. What followed was an
+advocate carrying no documents into three departments that never met the vendor.
+
+Separately, a 90 to 180 day enterprise cycle with no contact looks identical to
+rejection from outside. Some of what members read as ghosting is a normal cycle.
+
+**What this changes in this funnel.** Stage 1's trigger stays the same, an
+unexplained loss. What the member is taught to do about it changes from presenting
+better to arming the champion. Champion enablement is now dimension 6 of the
+scorecard, and it is the dimension most respondents will score lowest on while being
+free to fix, which makes it the best single piece of content in the top of funnel.
+
+**And a blocker this funnel now avoids.** Conflict 2 resolved as the ladder, see
+`00-RESOLUTIONS.md`. Stage 5's churn risk was always that a member arrives and finds
+nothing relevant. Teaching enterprise procurement to a band 1 member would have
+guaranteed it. The bands mean a member at any position has a next rung, and the first
+rungs cost nothing but knowledge.
 
 ### Acceleration opportunities
 

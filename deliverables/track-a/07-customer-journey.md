@@ -55,6 +55,26 @@ adaptation directs, in a different form to Track B.
    org chart. Phase 9 anchor 2 is built specifically to answer this and it is the
    strongest artifact available for this buyer.
 
+### Added from Block 1 research, what stage 1 actually is
+
+Track A's stage 1 trigger is a founder saying target market deals close unpredictably
+and stall after the pitch. `00-BUYER-CHECKS.md` says where.
+
+A North American buyer runs intake, risk tiering, due diligence, contracting,
+operational setup and go-live, across four lanes that must all clear. Above roughly
+$25,000 annual contract value, procurement, legal review and a security questionnaire
+become normal. Above $100,000 the cycle runs 90 to 180 plus days.
+
+The four gaps most commonly missing from a foreign vendor's setup are mature security
+evidence, an accurate W-8BEN or W-8BEN-E, documented insurance at expected limits,
+and attributable proof assets. Three of those four are invisible to a sales team
+that has only ever sold at home, because the home market never asked.
+
+**Consequence for this funnel.** The diagnostic at stage 3 should test the client
+against these gates directly. It turns a diagnostic that currently rests on the
+founder's judgement into one that rests on a published checklist, which matters a
+great deal for a business Phase 2 scored at 1.8 on credibility.
+
 ### Acceleration opportunities
 
 1. **Partnerships compress stages 1 to 3.** A trade body or export programme

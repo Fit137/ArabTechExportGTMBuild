@@ -400,6 +400,10 @@ def main() -> None:
 
     # Not in the skill's mapping, but the competitor slate belongs in a sheet.
     made.append(to_xlsx(SRC / "00-RESEARCH-FINDINGS.md", OUT / "00-research-findings.xlsx", NOTE))
+    made.append(to_xlsx(SRC / "00-BUYER-CHECKS.md", OUT / "00-buyer-checks.xlsx", NOTE))
+    made.append(to_docx(SRC / "00-BUYER-CHECKS.md", OUT / "00-buyer-checks.docx", NOTE))
+    made.append(to_docx(SRC / "00-CONFLICTS-TO-RESOLVE.md", OUT / "00-conflicts-to-resolve.docx", NOTE))
+    made.append(to_docx(SRC / "00-RESOLUTIONS.md", OUT / "00-resolutions.docx", NOTE))
 
     for p in sorted(made):
         print(p.relative_to(ROOT))

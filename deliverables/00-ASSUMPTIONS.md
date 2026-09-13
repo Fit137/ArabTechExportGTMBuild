@@ -118,6 +118,28 @@ currently empty and turns Phase 6 from a template into copy.
 
 ---
 
+### 5a. Market sequence, United States then Canada
+
+**Assumed, and now explicitly a founder decision rather than a finding.** Conflict 4
+in `00-RESOLUTIONS.md`, resolved as option A.
+
+`GTM-BRIEF.md` Section 1 says United States first, then Canada. That stays. What is
+removed is the unstated assumption that Canada is the United States with less
+competition. Three caveats from `00-BUYER-CHECKS.md` now travel with any Canada
+content:
+
+- A federal **Buy Canadian** policy reportedly grants Canadian suppliers a 10 percent
+  bid price reduction and 25 percent evaluation-score weight. Public procurement only,
+  so it touches few Track B buyers, but it is a structural disadvantage where it applies.
+- **Quebec French obligations are statutory**, described in the source as an
+  engineering commitment rather than translation.
+- Canadian buyers scrutinise **United States** vendors over CLOUD Act exposure. A MENA
+  vendor does not carry that risk, which is a small genuine opening and the only
+  finding in this run where being foreign helps.
+
+**Confidence: medium.** Enough to remove the easy assumption, not enough to reorder
+the markets.
+
 ## Two assumptions the research forced, which the brief did not anticipate
 
 ### 6. Payment rails are a packaging input, not a checkout detail
