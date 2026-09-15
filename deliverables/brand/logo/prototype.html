@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Arab Tech Export, logo prototypes</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --g:#00A45C; --g-bright:#00C767; --g-deep:#047A46; --g-soft:#E3F5EC;
+  --ink:#062B21; --canvas:#fff; --surface:#F4F7F5; --hair:#DCE5E0; --steel:#5C7169;
+  --latin:'Poppins',system-ui,sans-serif; --ar:'IBM Plex Sans Arabic',system-ui,sans-serif;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--surface);font-family:var(--latin);color:var(--ink);padding:40px 24px 80px}
+.wrap{max-width:1180px;margin:0 auto}
+h1{font-size:30px;font-weight:600;margin:0 0 6px}
+.lede{color:var(--steel);font-size:15px;max-width:720px;margin:0 0 40px;line-height:1.55}
+h2{font-size:12px;font-weight:600;letter-spacing:1.2px;text-transform:uppercase;color:var(--steel);margin:48px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--hair)}
+.grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.card{background:var(--canvas);border:1px solid var(--hair);border-radius:12px;padding:26px;display:flex;flex-direction:column;align-items:center;gap:14px}
+.card.dark{background:var(--ink);border-color:var(--ink)}
+.cap{font-size:10.5px;letter-spacing:.9px;text-transform:uppercase;color:var(--steel);text-align:center;line-height:1.5}
+.card.dark .cap{color:#8FB3A6}
+.name{font-size:15px;font-weight:600}
+.note{font-size:13.5px;color:var(--steel);line-height:1.6;margin:10px 0 0}
+svg{display:block}
+.lock{display:flex;align-items:center;gap:14px}
+.lock.stack{flex-direction:column;gap:10px}
+.wm{font-family:var(--latin);font-weight:600;letter-spacing:-.4px;line-height:1;white-space:nowrap}
+.wm-ar{font-family:var(--ar);font-weight:600;line-height:1.35;white-space:nowrap;direction:rtl}
+.swatch{height:56px;border-radius:8px;display:flex;align-items:flex-end;padding:8px;font-size:10px;letter-spacing:.6px;color:#fff;font-weight:500}
+.sizes{display:flex;align-items:flex-end;gap:26px;flex-wrap:wrap}
+.sz{display:flex;flex-direction:column;align-items:center;gap:8px}
+.bad{border-color:#E9B9B9;background:#FFF6F6}
+</style></head><body><div class="wrap">
+
+<h1>Arab Tech Export, logo prototypes</h1>
+<p class="lede">Three directions, all built from Islamic <strong>architecture</strong> rather than Islamic starwork. No star form appears in any of them. Green throughout. Upload this file to Claude Design with the accompanying prompt.</p>
+
+<h2>What was wrong with the first attempt</h2>
+<div class="card bad" style="align-items:flex-start">
+<p class="note" style="margin:0">Two squares at 0 and 45 degrees produce an eight point star. That is authentic Islamic geometry, and the argument is worthless, because a mark that needs explaining has already failed. In flat blue, angular, centred, it reads the way it reads. <strong>Star forms are now banned outright</strong>, alongside camels, lamps, domes and calligraphy as ornament. Blue is banned too.</p>
+</div>
+
+<h2>Direction 1 · The Gate <span style="color:var(--g);text-transform:none;letter-spacing:0">· recommended</span></h2>
+<div class="grid">
+  <div class="card">
+    <svg viewBox="0 0 120 120" width="150" height="150"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--g)" stroke-width="17" stroke-linecap="butt" stroke-dasharray="32.5 5.2" pathLength="150"/></svg>
+    <div class="cap">Full mark<br>four segments, four thresholds</div>
+  </div>
+  <div class="card">
+    <svg viewBox="0 0 120 120" width="150" height="150"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--g)" stroke-width="17" stroke-linecap="butt"/></svg>
+    <div class="cap">Reduced<br>under 24px, embroidery, engraving</div>
+  </div>
+  <div class="card dark">
+    <svg viewBox="0 0 120 120" width="150" height="150"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--g-bright)" stroke-width="17" stroke-linecap="butt" stroke-dasharray="32.5 5.2" pathLength="150"/></svg>
+    <div class="cap">On the deep band</div>
+  </div>
+  <div class="card">
+    <svg viewBox="0 0 120 120" width="150" height="150"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--ink)" stroke-width="17" stroke-linecap="butt" stroke-dasharray="32.5 5.2" pathLength="150"/></svg>
+    <div class="cap">One colour</div>
+  </div>
+</div>
+<p class="note"><strong>The idea.</strong> A pointed arch, open at the base. The band is split into four segments, which are the four departments that decide and the four bands of the ladder. It is a gate you pass through, not a badge you wear. Architecture, not ornament, and it reads at any size. Under 24px the segmentation drops and it becomes one clean arch, which is a legitimate responsive reduction rather than a different mark.</p>
+
+<h2>Direction 2 · The Arcade</h2>
+<div class="grid">
+  <div class="card">
+    <svg viewBox="0 0 120 120" width="150" height="150">
+      <path d="M8,100 A58,58 0 0 1 34,44 A58,58 0 0 1 60,100" fill="none" stroke="var(--g)" stroke-width="14" opacity=".28"/>
+      <path d="M34,100 A58,58 0 0 1 60,44 A58,58 0 0 1 86,100" fill="none" stroke="var(--g)" stroke-width="14" opacity=".6"/>
+      <path d="M60,100 A58,58 0 0 1 86,44 A58,58 0 0 1 112,100" fill="none" stroke="var(--g)" stroke-width="14"/>
+    </svg>
+    <div class="cap">Three arches, one route</div>
+  </div>
+  <div class="card dark">
+    <svg viewBox="0 0 120 120" width="150" height="150">
+      <path d="M8,100 A58,58 0 0 1 34,44 A58,58 0 0 1 60,100" fill="none" stroke="var(--g-bright)" stroke-width="14" opacity=".3"/>
+      <path d="M34,100 A58,58 0 0 1 60,44 A58,58 0 0 1 86,100" fill="none" stroke="var(--g-bright)" stroke-width="14" opacity=".62"/>
+      <path d="M60,100 A58,58 0 0 1 86,44 A58,58 0 0 1 112,100" fill="none" stroke="var(--g-bright)" stroke-width="14"/>
+    </svg>
+    <div class="cap">On the deep band</div>
+  </div>
+  <div class="card">
+    <svg viewBox="0 0 120 120" width="150" height="150">
+      <path d="M8,100 A58,58 0 0 1 34,44 A58,58 0 0 1 60,100" fill="none" stroke="var(--ink)" stroke-width="14" opacity=".25"/>
+      <path d="M34,100 A58,58 0 0 1 60,44 A58,58 0 0 1 86,100" fill="none" stroke="var(--ink)" stroke-width="14" opacity=".55"/>
+      <path d="M60,100 A58,58 0 0 1 86,44 A58,58 0 0 1 112,100" fill="none" stroke="var(--ink)" stroke-width="14"/>
+    </svg>
+    <div class="cap">One colour</div>
+  </div>
+</div>
+<p class="note"><strong>The idea.</strong> A riwaq, the arcaded walk of a caravanserai, the roadside inn that trade routes were built around. Three arches receding, brightening toward the destination. Trade, passage and hospitality in one form. <strong>Caveat:</strong> it must mirror under RTL, and the opacity ramp is fragile in one colour and on embroidery.</p>
+
+<h2>Direction 3 · The Weave</h2>
+<div class="grid">
+  <div class="card">
+    <svg viewBox="0 0 120 120" width="150" height="150">
+      <defs><mask id="m1"><rect width="120" height="120" fill="#fff"/><rect x="50" y="18" width="20" height="30" fill="#000"/><rect x="50" y="72" width="20" height="30" fill="#000"/></mask></defs>
+      <rect x="28" y="28" width="64" height="64" rx="5" fill="none" stroke="var(--g)" stroke-width="15" transform="rotate(45 60 60)"/>
+      <rect x="28" y="28" width="64" height="64" rx="5" fill="none" stroke="var(--g)" stroke-width="15" mask="url(#m1)"/>
+    </svg>
+    <div class="cap">Two bands, interlaced</div>
+  </div>
+  <div class="card dark">
+    <svg viewBox="0 0 120 120" width="150" height="150">
+      <defs><mask id="m2"><rect width="120" height="120" fill="#fff"/><rect x="50" y="18" width="20" height="30" fill="#000"/><rect x="50" y="72" width="20" height="30" fill="#000"/></mask></defs>
+      <rect x="28" y="28" width="64" height="64" rx="5" fill="none" stroke="var(--g-bright)" stroke-width="15" transform="rotate(45 60 60)"/>
+      <rect x="28" y="28" width="64" height="64" rx="5" fill="none" stroke="var(--g-bright)" stroke-width="15" mask="url(#m2)"/>
+    </svg>
+    <div class="cap">On the deep band</div>
+  </div>
+</div>
+<p class="note"><strong>The idea.</strong> Girih strapwork without a star. Two bands pass over and under each other, origin and destination locked together. <strong>Caveat, and it is the reason this is third:</strong> a rotated square plus a square is one step away from the shape we are trying to avoid. It is safer than an eight point star and it is not safe enough. Included so the comparison is on the table, not because I would ship it.</p>
+
+<h2>Lockups · Direction 1</h2>
+<div class="grid">
+  <div class="card">
+    <div class="lock">
+      <svg viewBox="0 0 120 120" width="46" height="46"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--g)" stroke-width="17" stroke-linecap="butt" stroke-dasharray="32.5 5.2" pathLength="150"/></svg>
+      <span class="wm" style="font-size:22px">Arab Tech Export</span>
+    </div>
+    <div class="cap">Primary, horizontal, Latin</div>
+  </div>
+  <div class="card">
+    <div class="lock" style="flex-direction:row-reverse">
+      <svg viewBox="0 0 120 120" width="46" height="46"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--g)" stroke-width="17" stroke-linecap="butt" stroke-dasharray="32.5 5.2" pathLength="150"/></svg>
+      <span class="wm-ar" style="font-size:21px">مُصدرين التكنولوجي العرب</span>
+    </div>
+    <div class="cap">Primary, horizontal, Arabic, mark mirrors to the right</div>
+  </div>
+  <div class="card">
+    <div class="lock">
+      <svg viewBox="0 0 120 120" width="52" height="52"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--g)" stroke-width="17" stroke-linecap="butt" stroke-dasharray="32.5 5.2" pathLength="150"/></svg>
+      <div>
+        <div class="wm" style="font-size:19px">Arab Tech Export</div>
+        <div class="wm-ar" style="font-size:15px;color:var(--steel);margin-top:3px">مُصدرين التكنولوجي العرب</div>
+      </div>
+    </div>
+    <div class="cap">Bilingual, Latin leads, Arabic at 1.06 optical</div>
+  </div>
+  <div class="card">
+    <div class="lock stack">
+      <svg viewBox="0 0 120 120" width="50" height="50"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--g)" stroke-width="17" stroke-linecap="butt" stroke-dasharray="32.5 5.2" pathLength="150"/></svg>
+      <div style="text-align:center">
+        <div class="wm" style="font-size:18px">Arab Tech Export</div>
+        <div class="wm-ar" style="font-size:14.5px;color:var(--steel);margin-top:3px">مُصدرين التكنولوجي العرب</div>
+      </div>
+    </div>
+    <div class="cap">Stacked, both scripts</div>
+  </div>
+</div>
+
+<h2>Cold test · does it hold small</h2>
+<div class="card" style="align-items:flex-start">
+  <div class="sizes">
+    <div class="sz"><svg viewBox="0 0 120 120" width="96" height="96"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--ink)" stroke-width="17" stroke-dasharray="32.5 5.2" pathLength="150"/></svg><span class="cap">96px</span></div>
+    <div class="sz"><svg viewBox="0 0 120 120" width="48" height="48"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--ink)" stroke-width="17" stroke-dasharray="32.5 5.2" pathLength="150"/></svg><span class="cap">48px</span></div>
+    <div class="sz"><svg viewBox="0 0 120 120" width="32" height="32"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--ink)" stroke-width="17" stroke-dasharray="32.5 5.2" pathLength="150"/></svg><span class="cap">32px</span></div>
+    <div class="sz"><svg viewBox="0 0 120 120" width="24" height="24"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--ink)" stroke-width="18"/></svg><span class="cap">24px reduced</span></div>
+    <div class="sz"><svg viewBox="0 0 120 120" width="16" height="16"><path d="M29,96 A70,70 0 0 1 60,33 A70,70 0 0 1 91,96" fill="none" stroke="var(--ink)" stroke-width="19"/></svg><span class="cap">16px reduced</span></div>
+  </div>
+  <p class="note">Segmentation drops below 24px. One colour, no wordmark, no gradient, no optical corrections.</p>
+</div>
+
+<h2>Palette · green, and not MongoDB's green</h2>
+<div class="grid">
+  <div class="card" style="padding:14px"><div class="swatch" style="background:#00A45C;width:100%">BRAND GREEN · #00A45C</div><div class="cap">Primary. CTAs, the mark</div></div>
+  <div class="card" style="padding:14px"><div class="swatch" style="background:#00C767;width:100%">GREEN BRIGHT · #00C767</div><div class="cap">On the deep band only</div></div>
+  <div class="card" style="padding:14px"><div class="swatch" style="background:#047A46;width:100%">GREEN DEEP · #047A46</div><div class="cap">Inline links, pressed</div></div>
+  <div class="card" style="padding:14px"><div class="swatch" style="background:#062B21;width:100%">INK · #062B21</div><div class="cap">Deep band, footer, body</div></div>
+</div>
+<p class="note">MongoDB's green is <strong>#00ED64</strong>, a neon spring green. These sit deeper and read as institutional rather than developer-tool. Close enough to keep the fork's feel, far enough that nobody calls this a MongoDB page.</p>
+
+</div></body></html>
