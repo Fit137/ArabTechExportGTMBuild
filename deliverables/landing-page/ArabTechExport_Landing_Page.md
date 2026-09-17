@@ -1,396 +1,242 @@
-Market access for Arab AI builders
+For Arab engineers and AI builders
 
-# Four Departments Decide. None of Them Were on the Call.
+# Build an AI Services Company That Sells to America.
 
-The call went well. Then nothing.
+You can already build. What you have never done is get a US company to sign, pay, and come back. That is a process with rules, and nobody taught you the rules.
 
-Procurement, legal, security and finance each check something different. The deal waits for all four.
+We teach them. In Arabic. Applied to a deal you have right now.
 
-Arab Tech Export teaches Arab engineers, indie hackers and AI consultants what those four verify, which parts are free to fix, and which parts you have to build.
+### 🎯 Apply to the founding cohort
 
-**Built for Arab builders who can deliver the work and keep losing to vendors who deliver less.**
+### 📘 Take the readiness check, 7 questions
 
-| $2.59T | 3.2 : 1 | 30% | 4 |
+| $2.59T | 3.2 : 1 | 30% | 12 |
 |---|---|---|---|
-| Worldwide AI spending forecast for 2026, up 47 percent *(Gartner)* | AI job demand against qualified supply *(2026 talent reports)* | Withheld from your invoice without one form *(IRS)* | Departments that must clear before you get paid |
-
-### 🎯 CTA #1 >> Apply to the founding cohort
-
-### 📘 CTA #2 >> Take the Buyer Readiness Check, 7 questions
+| Worldwide AI spend forecast, 2026 *(Gartner)* | AI roles open vs people qualified to fill them | Withheld from your first US invoice without one form *(IRS)* | Places in the founding cohort |
 
 ---
 
-# Why This, Why Now, Why You
+# This Is For You If
 
-Four claims. Each one has a number behind it.
+## ✅ You can build AI products or services
+Agents, RAG systems, automations, integrations, fine-tunes, data pipelines. You ship working things.
 
-## 1. Why export at all
+## ✅ You want a company, not a job
+You are building your own thing. Not looking to be hired by a US employer, not looking for a visa.
 
-Not because one market is better. Because of where the budget sits.
+## ✅ You are in the Arab region
+Egypt, Jordan, Morocco, Saudi Arabia, the UAE, or nearby. You work from where you are and you plan to stay there.
 
-- Worldwide AI spending is forecast at **$2.59 trillion in 2026, up 47 percent** *(Gartner)*
-- That is growing at **more than 3 times the rate of overall IT spending** *(Gartner)*
-- **86 percent** of HR and finance leaders plan to expand international hiring within two years
-- **87 percent** say hiring abroad makes economic sense
+## ✅ You have one US or Canadian conversation live, or close
+A lead, a referral, a proposal out, a client who went quiet. Something real to work on.
 
-The same capability is priced against what the buyer compares it to. Change the buyer, and the comparison changes with them.
+# This Is Not For You If
 
-## 2. Why now
+## ✕ You are still learning to build
+Go learn the craft first. It is free and it is good. Egypt FWD costs nothing. Hsoub has thousands of free articles. Come back when you can deliver.
 
-The window is a shortage, and shortages close.
+## ✕ You want us to find you clients
+We do not do introductions, leads, buyer networks, placement or recruitment. Not now, not later.
 
-- AI job demand exceeds qualified supply at about **3.2 to 1**, roughly **1.6 million open roles against 518,000 qualified people**
-- **72 percent** of employers report difficulty filling roles *(ManpowerGroup, 2026)*
-- **63 percent** name the skills gap as the single biggest barrier to AI adoption *(World Economic Forum)*
-- **94 percent** of CEOs call AI their top in-demand skill. **35 percent** say their people are ready
+## ✕ You want a job in the US
+No visas, no relocation, no employer matching. Different business entirely.
 
-Buyers who can hire locally do. These ones cannot.
-
-## 3. Why AI services specifically
-
-- AI platforms and models forecast to grow **63 percent in 2026** *(Gartner)*
-- Generative AI model spending forecast to grow **117 percent** *(Gartner)*
-- Deloitte's 2026 enterprise survey names **insufficient worker skills** as the biggest barrier to putting AI into workflows
-
-The budget arrived before the people did. That gap is the opening, and it is specific to this category.
-
-## 4. Why you
-
-- **More than 150,000** people work in Egypt's software industry alone
-- Close to **half** of surveyed leaders expect international workers to be at least **50 percent** of their workforce by 2027
-- **OFAC screening is entity based, not country based.** No blanket exclusion was found for Egypt, Jordan, Morocco, Saudi Arabia or the UAE *(OFAC)*
-
-The capability is here. The permission is not the problem. The paperwork is.
+## ✕ You will not bring a real deal
+Half of what we do is work on your actual proposal, your actual scope, your actual buyer. Without one, you have bought a course.
 
 ---
 
-# What You Are Already Doing Right
+# The Problem Is Not Your Code
 
-## You can actually build it
-You ship working systems. That was never the constraint, and nobody who has seen your work thinks it is.
+## You send the proposal. It goes quiet.
 
-## You invested in the craft
-Courses, certifications, side projects, open source. You put the hours in before anyone paid you for them.
+Not price. Not quality. Your buyer's procurement, legal, security and finance teams each check something different, and the deal waits for all four. **None of them were on your call.** Your champion had nothing to hand them.
 
-## You went where the buyers are
-Upwork, Mostaql, LinkedIn, referrals. You did not wait to be found.
+## The rules are invisible from here
 
-## You priced honestly
-You quoted what the work was worth where you are. That is the correct instinct applied to the wrong reference point.
+| What blocks you | What it costs |
+|---|---|
+| No W-8BEN or W-8BEN-E on file | **30% withheld**, or no payment at all *(IRS)* |
+| No scope that survives forwarding | Deal dies after the pitch |
+| No answer on data and security | Stalls above **$25,000** contract value |
+| Nothing your champion can forward | Silence you never get explained |
+| Bidding on marketplaces | **10 to 15% commission**, forever, on every project |
+| A card that will not clear | Egypt caps USD at **$50 to $200** a month |
 
----
-
-# But You Are Still:
-
-## Losing deals you should have won, with no explanation
-
-The call was good. Then silence. You assume price, or that they found someone better. Usually neither. Your champion could not get you through four departments with nothing to hand any of them.
-
-## Paying a platform tax to stay where procurement never happens
-
-Mostaql takes a commission **commonly cited at 10 percent, up to 15**. Upwork takes its own cut.
-
-The fee is not the real cost. List-based marketplaces hold you at the deal size where **no buyer runs a formal process**, and price is the only variable left.
-
-## Missing one form, and 30 percent of the invoice with it
-
-A missing or invalid **W-8BEN or W-8BEN-E** can trigger **30 percent withholding**, or payment refusal until corrected *(IRS)*. Most Arab builders have never heard of it. You find out when the money does not arrive.
-
-## Getting filtered by a threshold nobody told you about
-
-Above roughly **$25,000** annual contract value, procurement, legal review and a security questionnaire become normal. Below about **$15,000**, one person decides and deals close in **14 to 30 days**. Same skill. Completely different game.
-
-## Unable to take the money even when you win it
-
-Egyptian cards carry monthly USD limits reported **as low as $50 to $200**, with international limits reported suspended on debit cards. Wise cards are not available in Egypt. A deal you cannot get paid for is not a deal.
-
-```
-Band 1, under ~$15k
-Process:   █ one person decides
-Cycle:     ██ 14-30 days
-You need:  ██ legibility, scope, an invoice
-
-Band 3, ~$25k to $100k
-Process:   ████████ procurement + legal + security
-Cycle:     ████████ 30-90 days
-You need:  ████████ all of the above, plus paperwork you have never been asked for
-
-THE GAP IS NOT SKILL. IT IS FOUR DOCUMENTS AND A PROCESS MAP.
-```
+Every one of these is fixable. Four of the six cost nothing but knowing.
 
 ---
 
-# The Crescendo
+# Why This Window Is Open Now
 
-You **can build what they need**, your work **holds up against anyone's**, and the budget **is sitting there in someone's 2026 plan**. You built your position through real work, real clients, real delivery. But the people who decide never saw any of it.
+## The budget arrived before the people did
 
-Having the skill guarantees **you can do the job**. Knowing what those four departments verify transforms your position into **WORK THAT SURVIVES A PROCUREMENT REVIEW** and guarantees **YOU KNOW WHAT THEY CHECK, YOU KNOW WHICH PART COSTS MONEY, AND YOU KNOW WHAT TO FIX FIRST**.
+- **$2.59 trillion** worldwide AI spend forecast for 2026, up **47%** *(Gartner)*
+- Growing **3× faster** than IT spending overall *(Gartner)*
+- **1.6 million** AI roles open against **518,000** qualified people
+- **72%** of employers cannot fill the roles they have *(ManpowerGroup, 2026)*
+- **63%** name the skills gap as their biggest barrier to AI *(World Economic Forum)*
+
+## And they are already buying from outside
+
+- **86%** of leaders plan to expand international hiring within two years
+- **87%** say hiring abroad makes economic sense
+- **OFAC screening is entity based, not country based.** No blanket exclusion for Egypt, Jordan, Morocco, Saudi Arabia or the UAE *(OFAC)*
+
+You are not blocked. You are unfamiliar. Those are different problems and only one of them is yours to fix.
 
 ---
 
-# The Arab Tech Export Solution
+# What You Learn
 
-**One origin. One destination. Your own live deal.**
+The six things a US or Canadian buyer checks before they can award you work.
 
-Arab Tech Export combines **the buyer's published verification sequence**, **work applied to your actual open deals**, and **a room of people running the same motion** to get Arab builders through a North American buying process. No introductions. No placement. No promises about what you will earn.
+| # | What they check | Free to fix | Costs money |
+|---|---|---|---|
+| 1 | **Can they tell what you do** in one line, in their language | ✅ | |
+| 2 | **Can they verify you** without contacting you | ✅ | |
+| 3 | **Is the work defined**, with an end point | ✅ | |
+| 4 | **Can you be paid.** Tax form, contract, invoice that matches their records | ✅ mostly | Insurance |
+| 5 | **Can they assess your risk** without a six week detour | | ✅ |
+| 6 | **Can your champion sell you** to three colleagues who never met you | ✅ | |
 
-This isn't another freelancing course. This isn't a lead service. **This is the route from work that needs no procurement to contracts that clear it.**
+**Five of six are free.** We tell you which is which, and the order to fix them in. That is the whole method.
 
 ---
 
-# The Big Promise
+# How It Works
 
-## Move One Band. Then the Next.
+## 1. Diagnose
+**Find out what size of deal your setup can survive.**
 
-Your band is what your **setup** can survive, not what you are bidding on. Most builders are at band 1 and do not know bands 2 to 4 exist.
+Seven questions. Six scores. One band. You will know exactly which check you have been failing.
+
+## 2. Build
+**Fix the free things first. Buy the expensive things only when a deal needs them.**
+
+Your tax form, your scope template, your champion pack, your one line. Most of it takes an afternoon.
+
+## 3. Apply
+**Bring a live deal. We take it apart before you send it.**
+
+Your actual proposal, your actual buyer, reviewed in the room. Every week.
+
+---
+
+# What You Get
+
+| | Room | Deal | Direct |
+|---|---|---|---|
+| Community of builders selling to the same market | ✅ | ✅ | ✅ |
+| Course library and AMAs | ✅ | ✅ | ✅ |
+| The six checks, in full | ✅ | ✅ | ✅ |
+| Your tax and contract templates | ✅ | ✅ | ✅ |
+| **Live teardowns of your own deals** | | ✅ | ✅ |
+| Positioning review | | ✅ | ✅ |
+| Security and compliance build list | | ✅ | ✅ |
+| **One to one sessions with the founder** | | | ✅ |
+| Price | `{TBD}` | `{TBD}` | `{TBD}` |
+
+**Pricing is not set yet.** Founding cohort members get permanent terms and the lowest price this will ever be. Cancellation terms are published before you pay.
+
+---
+
+# Your Band Decides Everything
+
+Your band is what your **setup** can survive, not what you are bidding on.
 
 | Band | Deal size | What the buyer does | What you need |
 |---|---|---|---|
-| **1** | Under about $15,000 | One person decides. No formal process | Legibility, a scope, an invoice that gets paid |
-| **2** | About $15,000 to $25,000 | Procurement appears. Light review | Tax paperwork, a contract template |
-| **3** | About $25,000 to $100,000 | Procurement, legal, security questionnaire | Security evidence, a DPA, insurance |
-| **4** | Above about $100,000 | Full enterprise. 90 to 180 plus days | All of it, documented and operating |
+| **1** | Under about $15,000 | One person decides. No process | A clear line, a scope, an invoice |
+| **2** | $15,000 to $25,000 | Procurement appears | Tax form, contract template |
+| **3** | $25,000 to $100,000 | Procurement, legal, security | Security answers, insurance |
+| **4** | Above $100,000 | Full enterprise, 90 to 180 days | All of it, running |
 
-✅ Know exactly which band your current setup clears
-✅ Know which gaps are free to fix and which cost money
-✅ Know the order to fix them in
-✅ Apply all of it to a deal you have open right now
+Most builders are at band 1 and do not know bands 2 to 4 exist. Moving up one band is the product.
 
-**One line we will not cross:** clearing these checks makes you eligible. It does not win the deal. Anyone telling you otherwise is selling something.
+**We do not claim this wins you the deal.** It makes you eligible for deals you are currently filtered out of. Anyone promising more is selling something.
 
 ---
 
-# How It Works in 3 Steps
+# Compared to What You Are Doing Now
 
-## 1. **Diagnose**, band and gaps
+| | Arab Tech Export | Upwork, Mostaql | Free content |
+|---|---|---|---|
+| Clients available today | ✕ None. We do no introductions | ✅ Thousands | ✕ |
+| Payment protection | ✕ | ✅ Escrow | ✕ |
+| Cost | Paid | ✅ Free to join | ✅ Free |
+| Commission on your work | ✅ Zero, ever | ✕ 10 to 15% forever | ✅ Zero |
+| Teaches the US buying process | ✅ | ✕ | ✕ Rarely |
+| Works on your actual deal | ✅ | ✕ | ✕ Not possible |
+| Deal size you can reach | ✅ Band 2 and 3 | ✕ Band 1 by design | ✕ |
 
-**Stop guessing why you lost. Start knowing which check you failed.**
-
-Seven questions, six dimensions, one band position.
-
-- **Legibility**: can they tell what you do in one line
-- **Proof**: is there anything attributable they can verify without asking you
-- **Scope**: is the work defined so they know when it ends
-- **Paperwork readiness**: tax form, contract template, invoicing, insurance
-- **Security and compliance readiness**: can they assess your risk without a six week detour
-- **Champion enablement**: can your advocate carry you through four departments
-
-**Result:** A per dimension score, your band, and which gaps cost money.
-
-## 2. **Build**, in the order that matters
-
-**Stop fixing what is visible. Start fixing what is blocking.**
-
-The free half and the paid half, separated and sequenced.
-
-- **Free to fix**: your one line, your scope document, what your champion carries out of the call
-- **The form first**: W-8BEN or W-8BEN-E, valid through 31 December of the third year after signing
-- **Then the contract layer**: template, DPA, what a buyer expects each to contain
-- **Then the expensive layer**: security evidence, insurance, only when your band needs it
-
-**Result:** You stop paying for band 3 infrastructure while bidding band 1 work.
-
-## 3. **Apply**, to a deal you already have
-
-**Stop studying. Start bringing the document you were about to send.**
-
-- **Live deal teardowns**: your actual scope, your actual buyer, in the room
-- **Positioning review**: how you read to someone who has never met you
-- **Champion pack**: what the person on the call hands their colleagues
-- **Peer review against a fixed rubric**: same questions, same order, every time
-
-**Real Example:** A member brings a proposal for a $30,000 engagement. It reads well. It has no scope exclusions, no security page to point at, and nothing the buyer's champion can forward to legal. Three fixes, none of which cost money, and it survives being sent to people who were never on the call.
-
----
-
-# Arab Tech Export vs. The Alternatives
-
-## Table 1: vs. Free Content
-
-| Factor | Arab Tech Export | Free content |
-|---|---|---|
-| **Cost** | ✕ Paid | ✅ Free, and much of it is good |
-| **Breadth of craft teaching** | ✕ Narrow, deliberately | ✅ Enormous |
-| **Written for your starting position** | ✅ Arab builder, no North American track record | ✕ Mostly by people who already had the buyer |
-| **The four-department process** | ✅ Published sequence, taught step by step | ✕ Rarely mentioned |
-| **Applied to your own live deal** | ✅ Required, not optional | ✕ Not possible |
-
-### What this means:
-
-If you want to learn the craft, free content wins and it is not close. Egypt FWD is government funded and free. Hsoub publishes thousands of free articles. Use them. What free content will not tell you is which form withholds 30 percent of your invoice, because whoever made it never had to file one.
-
-## Table 2: vs. Marketplaces
-
-| Factor | Arab Tech Export | Upwork, Mostaql, Khamsat |
-|---|---|---|
-| **Buyers available today** | ✕ None. We do not do introductions | ✅ Thousands, right now |
-| **Payment protection** | ✕ Not our function | ✅ Escrow, dispute handling |
-| **Commission on every deal** | ✅ None. We never touch your contracts | ✕ Commonly cited at 10 percent, up to 15 on Mostaql |
-| **Deal band you can reach** | ✅ Band 2 and 3, by building the setup for it | ✕ Band 1 by design. No formal process, price is the variable |
-| **What accumulates** | ✅ Your own setup, permanently | ✕ A rating on someone else's platform |
-
-### What this means:
-
-If you need work this month, go to a marketplace. That is what they are for and we are not a substitute. The cost is not the commission. It is that list-based comparison keeps you where no procurement happens, and nothing you build there moves with you.
-
----
-
-# What It Costs
-
-Pricing is not set yet. The shape is.
-
-| Plan | Carries you | Price |
-|---|---|---|
-| **Checklist** | Nowhere. Shows you the ladder | **Free** |
-| **Room** | Band 1 to band 2, the free-to-fix half | `{TBD}` |
-| **Deal** | Band 2 to band 3, where a live deal is required | `{TBD}` |
-| **Direct** | Band 3 and the edge of 4, founder hours, capped slots | `{TBD}` |
-
-**Founding cohort: 8 to 12 people, then it closes.** Permanent terms for the group that joined before there was anything to evaluate.
-
-Cancellation terms are published before you pay. No retention call.
+**If you need work this month, go to a marketplace.** That is what they are for. The cost is not the commission, it is that list-based bidding holds you where no procurement happens and nothing you build there moves with you.
 
 ---
 
 # What We Do Not Have Yet
 
-No testimonials. No client list. No case studies. No student count.
+No testimonials. No client logos. No case studies. No student count.
 
-Arab Tech Export is pre-launch. The honest version of this section is that we have nothing to show you, and a page that invented some would be teaching the opposite of what it sells.
+This is pre-launch. A page that invented some would be teaching the opposite of what it sells.
 
 **What stands in its place:**
 
-- The buyer's verification sequence, sourced to the IRS, OFAC and published procurement policy
-- A method you can read in full before you pay anything
-- Cancellation terms written down, not at anyone's discretion
-- A founding cohort capped at 12, so you can see exactly who else is in the room
-
-The Block 1 research behind this page found that North American buyers **discount generic testimonials and logo walls**, and want named, attributable, specific evidence. We do not have that yet. Neither, probably, do you. That is the same problem, and it is on the curriculum.
+✅ The buyer's checks, sourced to the IRS and OFAC, published in full before you pay
+✅ Cancellation terms written down, not at our discretion
+✅ A founding cohort capped at 12, so you can see who is in the room
+✅ A method you can read completely before spending anything
 
 ---
 
-# Frequently Asked Questions
+# Questions
 
-### We already have free content and a marketplace account. Why add this?
+### How much does it cost?
+Not set yet. Founding cohort members lock the lowest price permanently. If that is a dealbreaker, wait for the pricing page.
 
-**Short answer:** Because neither tells you what the buyer's legal and finance teams check.
+### What language?
+Arabic for teaching and community. English for anything a US buyer will read, because that is where it has to work.
 
-**Detailed answer:** Free content teaches the craft and the general idea of selling. Marketplaces give you buyers and take a commission to keep you where no procurement runs. Neither covers the four-department sequence, the tax form, or what your champion carries out of the call. Those are the things that decide deals above about $15,000.
+### I already have a US client. Is this still useful?
+That is the best case. You are at band 1 or 2 and trying to reach band 3. Bring that client's next deal.
 
-### Is this just telling me to get SOC 2 and insurance?
-
-**Short answer:** No, and telling you that at band 1 would be bad advice.
-
-**Detailed answer:** Security evidence and insurance matter above about $25,000 annual contract value. Below that, almost no buyer asks. A large part of the method is knowing which band you are at so you do not spend money on infrastructure your deals do not require. Most members should fix the free things first, and most of those take an afternoon.
-
-### Who is this NOT for?
-
-**Short answer:** People who cannot deliver the work yet, and people who want introductions.
-
-**Detailed answer:** This starts after the skill. If you are still learning to build, free content is better and cheaper. If you want leads, a buyer network, placement, recruitment or visa help, we do not do any of that and never will. If you will not bring a live or imminent deal to work on, the differentiated half of this is unusable to you.
-
-### Will this get me clients?
-
-**Short answer:** No. It makes you eligible for a category of work you are currently filtered out of.
-
-**Detailed answer:** Clearing a buyer's checks removes reasons to reject you. It does not create demand, win a competitive bid, or replace selling. We hold this line everywhere on this page because the opposite claim is the standard promise in this category and it is not true.
+### Do I need a US company?
+No. A US entity is not legally required to be paid by US buyers, as long as your tax forms and banking details are correct. Most people are told the opposite.
 
 ### What if my card will not work?
-
-**Short answer:** That is a known problem and it is on us to solve, not you.
-
-**Detailed answer:** Monthly USD card limits in Egypt are reported as low as $50 to $200, with international limits reported suspended on debit cards. Annual billing, cohort billing and local collection routes exist for exactly this reason. If a payment fails, you get the alternatives, not a dead checkout.
-
-### What language is this in?
-
-**Short answer:** Arabic for the teaching, English for anything a buyer will read.
-
-**Detailed answer:** Discussion, explanation and community run in Arabic. Every artifact you will put in front of a North American buyer is produced in English, because that is the language it has to survive in. The room doubles as practice.
+Known problem. Egypt caps international USD spending as low as $50 to $200 a month. Annual, cohort and local payment routes exist. You get alternatives, not a dead checkout.
 
 ### Can I leave?
+Yes, from your account page. Terms published before you pay. No retention call.
 
-**Short answer:** Yes, from your account page.
-
-**Detailed answer:** Cancellation and refund terms are published on the pricing page before you pay. Not case by case, not at our discretion, no retention call. In a category with a deserved trust problem, the terms are the argument.
+### Who is teaching this?
+`{TBD}` Founder background goes here.
 
 ---
 
-# Transform Your Position. Stop Losing Deals You Cannot Explain.
+# Two Ways In
 
-### The Old Way:
+## 🚀 Founding cohort. 12 places.
 
-- ❌ Bid on a list → compete on price, no process to clear, nothing accumulates
-- ❌ Lose after a good call → assume price, learn nothing, repeat it
-- ❌ Find out about the form when the money is short → 30 percent gone
-- ❌ Fix what is visible → the blocking gap stays invisible
-- ❌ Send a proposal → the three people who decide never see it
+Every member brings a live or imminent US deal. Recruited one at a time, then it closes.
 
-### The Arab Tech Export Way:
-
-- ✅ **Know your band** → stop bidding into processes your setup cannot survive
-- ✅ **Know which check failed** → the loss becomes information
-- ✅ **File the form first** → it is free and it takes an afternoon
-- ✅ **Fix in blocking order** → free things first, expensive things only when your band needs them
-- ✅ **Arm your champion** → the people who decide get something they can forward
-
-## 🚀 Founding Cohort: 8 to 12 People
-
-### Recruited one at a time. Then it closes.
-
-A room of twelve notices when you stop showing up. That is the entire point, and it is why this is not an open launch.
-
-**Every member brings a live or imminent North American deal.**
-
-✅ Your band and your six dimensions, scored
-✅ Your build list, sequenced, free half separated from the paid half
-✅ Your own live deal torn down in the room
-✅ Permanent founding terms, and published cancellation terms from day one
+✅ Your band and six scores
+✅ Your build list, free half separated from the paid half
+✅ Your own deal torn apart in the room
+✅ Permanent founding terms
 
 [**>> Apply to the founding cohort**]
 
----
+## 🎁 Not ready? Take the readiness check.
 
-## 🎁 Not Ready? Take the Free Buyer Readiness Check
+7 questions. Your score across 6 dimensions. Your band. Which gaps are free and which cost money.
 
-### Find out what size of deal your setup can survive
+**No credit card. No sales call. No verdict on your ability.**
 
-Answer **7 questions**. Get your score across **6 dimensions** and your **band position**. See exactly which gaps are free to fix and which cost money.
-
-**Your report includes:**
-
-**✅ Legibility**
-Can a buyer tell what you do in one line, in their category language.
-
-**✅ Proof**
-Is there anything attributable they can verify without contacting you.
-
-**✅ Scope**
-Is the work defined so they know what they are buying and when it ends.
-
-**✅ Paperwork readiness**
-Tax form, contract template, invoicing, insurance. What you could send today.
-
-**✅ Security and compliance readiness**
-What you could hand a buyer who asks how you handle their data.
-
-**✅ Champion enablement**
-What the person on the call has in hand for the colleagues who decide.
-
-**Receive instantly:**
-
-- ✅ Score per dimension, plus your band, 0 to 112
-- ✅ Each gap marked free to fix or has to be built
-- ✅ A build list in blocking order
-- ✅ The buyer's verification checklist in full, ungated
-
-**No credit card. No sales call. No score is a verdict on your ability.**
-
-### 🎯 CTA >> Get my band
+### 🎯 Get my band
 
 ---
 
-**Arab Tech Export • Market access education for Arab AI builders**
+**Arab Tech Export • مُصدرين التكنولوجي العرب**
 
-*For Arab engineers, indie hackers and AI consultants selling into the United States and Canada. We teach what the buyer verifies and apply it to your own live deal. We do not sell introductions.*
-
-**Questions?** Reach out anytime. No strings attached.
+*For Arab engineers building AI services companies that sell to the United States and Canada. We teach what the buyer checks. We do not sell introductions.*
